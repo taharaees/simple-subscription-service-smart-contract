@@ -1,0 +1,1 @@
+As a part of an elective course, I created this simple project where user can subscribe for service for a fee like netflix using cryptocurrency, it is a simple project to enahnce my learning and understanding of blockchain technology and how smart contract work.
